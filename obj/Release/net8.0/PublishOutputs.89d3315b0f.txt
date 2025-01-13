@@ -1,0 +1,6 @@
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/WeatherAppWithLocalAPI
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/WeatherAppWithLocalAPI.dll
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/WeatherAppWithLocalAPI.deps.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/WeatherAppWithLocalAPI.runtimeconfig.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/WeatherAppWithLocalAPI.pdb
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/Newtonsoft.Json.dll

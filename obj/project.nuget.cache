@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wcfBOooQnt8=",
+  "success": true,
+  "projectFilePath": "/Users/batuhan/Desktop/WeatherAppWithLocalAPI/WeatherAppWithLocalAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/batuhan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
