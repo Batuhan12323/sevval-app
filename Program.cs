@@ -40,31 +40,4 @@ app.MapGet("/api/weather/{city}", (string city) =>
 });
 
 app.Run();
-    using System;
-using System.Net.Http;
-using System.Threading.Tasks;
-
-namespace WeatherAppWithLocalAPI
-{
-    public class Program
-    {
-        public static async Task Main(string[] args)
-        {
-            var baseApiUrl = Environment.GetEnvironmentVariable("BASE_API_URL");
-
-            if (string.IsNullOrEmpty(baseApiUrl))
-            {
-                Console.WriteLine("BASE_API_URL is not set!");
-                return;
-            }
-
-            using (var httpClient = new HttpClient())
-            {
-                var response = await httpClient.GetAsync($"{baseApiUrl}/posts");
-                var content = await response.Content.ReadAsStringAsync();
-
-                Console.WriteLine($"API Response: {content}");
-            }
-        }
-    }
-}
+    
