@@ -30,3 +30,4 @@
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/bin/Debug/net8.0/publish/WeatherAppWithLocalAPI.deps.json
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/bin/Debug/net8.0/publish/WeatherAppWithLocalAPI.runtimeconfig.json
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/obj/Debug/net8.0/WeatherAppWithLocalAPI.sourcelink.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/bin/Debug/net8.0/global.json
