@@ -1,1 +1,1 @@
-web: dotnet WeatherAppWithLocalAPI.dll
+web: dotnet ./publish/WeatherAppWithLocalAPI.dll
