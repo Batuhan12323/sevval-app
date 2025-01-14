@@ -26,3 +26,11 @@
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/obj/Release/net8.0/WeatherAppWithLocalAPI.pdb
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/obj/Release/net8.0/WeatherAppWithLocalAPI.genruntimeconfig.cache
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/obj/Release/net8.0/ref/WeatherAppWithLocalAPI.dll
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/bin/Release/net8.0/publish/web.config
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/bin/Release/net8.0/global.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/bin/Release/net8.0/publish/WeatherAppWithLocalAPI.deps.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/bin/Release/net8.0/publish/WeatherAppWithLocalAPI.runtimeconfig.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/bin/Release/net8.0/WeatherAppWithLocalAPI.staticwebassets.endpoints.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/obj/Release/net8.0/WeatherAppWithLocalAPI.sourcelink.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/obj/Release/net8.0/staticwebassets.build.endpoints.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/obj/Release/net8.0/staticwebassets/msbuild.WeatherAppWithLocalAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

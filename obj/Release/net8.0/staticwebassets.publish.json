@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "KgsKf1LcEnRmrK+t55PBHYqhr4UXAAeYhBEWHQt0/Aw=",
+  "Hash": "vdMqzABClcUFQMyT2ne+ss2+9b2LBLeW1kcVAtMJvTw=",
   "Source": "WeatherAppWithLocalAPI",
   "BasePath": "_content/WeatherAppWithLocalAPI",
   "Mode": "Default",
   "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

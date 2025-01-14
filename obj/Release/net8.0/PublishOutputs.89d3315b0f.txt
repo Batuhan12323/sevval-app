@@ -1,4 +1,8 @@
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/WeatherAppWithLocalAPI
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/publish/web.config
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/global.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/publish/WeatherAppWithLocalAPI.deps.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/publish/WeatherAppWithLocalAPI.runtimeconfig.json
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/WeatherAppWithLocalAPI.dll
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/WeatherAppWithLocalAPI.deps.json
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/publish/WeatherAppWithLocalAPI.runtimeconfig.json
