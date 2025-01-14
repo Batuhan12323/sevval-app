@@ -26,3 +26,7 @@
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/obj/Debug/net8.0/WeatherAppWithLocalAPI.pdb
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/obj/Debug/net8.0/WeatherAppWithLocalAPI.genruntimeconfig.cache
 /Users/batuhan/Desktop/WeatherAppWithLocalAPI/obj/Debug/net8.0/ref/WeatherAppWithLocalAPI.dll
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/bin/Debug/net8.0/publish/web.config
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/bin/Debug/net8.0/publish/WeatherAppWithLocalAPI.deps.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/bin/Debug/net8.0/publish/WeatherAppWithLocalAPI.runtimeconfig.json
+/Users/batuhan/Desktop/WeatherAppWithLocalAPI/obj/Debug/net8.0/WeatherAppWithLocalAPI.sourcelink.json
